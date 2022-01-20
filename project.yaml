@@ -2,7 +2,7 @@ specVersion: 0.2.0
 name: staking-rewards
 version: 0.0.4
 description: This project can be use as a starting po...
-repository: https://github.com/subquery/subql-starter
+repository: https://github.com/sP34ND/subql-module4-aggregation
 schema:
   file: ./schema.graphql
 network:
